@@ -1,0 +1,4 @@
+# I cannot use docker-machine due to my Operating System. 
+# I believe the command would have been something like this:
+
+docker-machine create --driver virtualbox Char
